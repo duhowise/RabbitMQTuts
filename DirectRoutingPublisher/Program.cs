@@ -29,15 +29,15 @@ namespace DirectRoutingPublisher
 
 
             var purchaseOrder1 = new PurchaseOrder { AmountToPay = 25.0m, CompanyName = "company", PaymentDayTerms = 75,PoNumber = "46892"};
-            var purchaseOrder2 = new PurchaseOrder { AmountToPay = 5.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder3 = new PurchaseOrder { AmountToPay = 125.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder4 = new PurchaseOrder { AmountToPay = 225.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder5 = new PurchaseOrder { AmountToPay = 253.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder6 = new PurchaseOrder { AmountToPay = 254.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder7 = new PurchaseOrder { AmountToPay = 255.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder8 = new PurchaseOrder { AmountToPay = 265.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder9 = new PurchaseOrder { AmountToPay = 257.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
-            var purchaseOrder10 = new PurchaseOrder { AmountToPay = 2785.0m, CompanyName = "company", PaymentDayTerms = 75, PoNumber = "46892" };
+            var purchaseOrder2 = new PurchaseOrder { AmountToPay = 5.0m, CompanyName = "company", PaymentDayTerms = 71, PoNumber = "46892" };
+            var purchaseOrder3 = new PurchaseOrder { AmountToPay = 125.0m, CompanyName = "company", PaymentDayTerms = 775, PoNumber = "46892" };
+            var purchaseOrder4 = new PurchaseOrder { AmountToPay = 225.0m, CompanyName = "company", PaymentDayTerms = 7518, PoNumber = "46892" };
+            var purchaseOrder5 = new PurchaseOrder { AmountToPay = 253.0m, CompanyName = "company", PaymentDayTerms = 751, PoNumber = "46892" };
+            var purchaseOrder6 = new PurchaseOrder { AmountToPay = 254.0m, CompanyName = "company", PaymentDayTerms = 175, PoNumber = "46892" };
+            var purchaseOrder7 = new PurchaseOrder { AmountToPay = 255.0m, CompanyName = "company", PaymentDayTerms = 705, PoNumber = "46892" };
+            var purchaseOrder8 = new PurchaseOrder { AmountToPay = 265.0m, CompanyName = "company", PaymentDayTerms = 5675, PoNumber = "46892" };
+            var purchaseOrder9 = new PurchaseOrder { AmountToPay = 257.0m, CompanyName = "company", PaymentDayTerms = 755, PoNumber = "46892" };
+            var purchaseOrder10 = new PurchaseOrder { AmountToPay = 2785.0m, CompanyName = "company", PaymentDayTerms = 785, PoNumber = "46892" };
 
 
 

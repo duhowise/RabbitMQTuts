@@ -26,6 +26,7 @@ namespace DirectRoutingSubscriber2
                     channel.QueueBind(CardPaymentQueueName, ExchangeName, nameof(PurchaseOrder));
                     channel.BasicQos(0, 1, false);
                     var consumer = new QueueingBasicConsumer(channel);
+                    channel.BasicConsume(CardPaymentQueueName, false, consumer);
 
                     while (true)
                     {
